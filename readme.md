@@ -22,6 +22,6 @@ This is a starter repo for working with AI & ML projects with basic set of libra
    pip install -r requirements.txt
    ```
 
-4. Install Jupyter extension in VSCode
+4. Install Jupyter extension in VSCode https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
 
 After completing above steps, the sample.ipynb notebook can be used to run sample codes
