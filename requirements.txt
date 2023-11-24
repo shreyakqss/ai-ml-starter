@@ -4,5 +4,7 @@ pandas
 scikit-learn
 matplotlib 
 seaborn 
-jupyterlab
-ipykernel
+tensorflow
+torch
+torchvision 
+torchaudio
